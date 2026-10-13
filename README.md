@@ -43,13 +43,3 @@ quote: "Dedicated to leveraging data & code to solve complex problems and drive 
 </div>
 
 ---
-
-### 👨‍💻 About Me
-
-```yaml
-name: Pruthwiraj Chavan
-role: Software Developer & Tech Enthusiast
-passion: Crafting intuitive, responsive web experiences & exploring AI/ML
-website: https://www.pruthwirajchavan.in
-open_for: Collaborations, open-source projects, and new opportunities
-quote: "Turning ideas into scalable, beautiful digital reality."
